@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Datasets
+smartvision_dataset/
+smartvision_dataset.zip
+
+# Training outputs
+runs/
+models/
+results/
+
+# Weights
+*.pt
+*.onnx
+*.engine
+
+# Images / plots
+*.png
+*.jpg
+
+# OS / editor
+.vscode/
+.DS_Store
