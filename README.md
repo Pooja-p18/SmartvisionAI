@@ -1,3 +1,15 @@
+---
+title: SmartVision AI
+emoji: 👁️
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.39.0"
+app_file: src/streamlit_app.py
+pinned: false
+---
+
+
 # 👁️ SmartVision AI  
 ### Image Classification & Object Detection using Deep Learning
 
