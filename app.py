@@ -15,6 +15,8 @@ from PIL import Image
 import numpy as np
 import cv2
 import json
+from utils import load_model, preprocess_image, get_class_names
+
 
 # Page configuration
 st.set_page_config(
