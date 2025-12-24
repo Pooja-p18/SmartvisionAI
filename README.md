@@ -9,6 +9,17 @@ app_file: src/streamlit_app.py
 pinned: false
 ---
 
+## Features
+- Image classification
+- Object detection
+- Interactive UI
+
+## Tech Stack
+- Python
+- Streamlit
+- OpenCV
+- YOLO
+- Hugging Face Spaces
 
 # 👁️ SmartVision AI  
 ### Image Classification & Object Detection using Deep Learning
