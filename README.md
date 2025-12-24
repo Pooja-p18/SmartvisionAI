@@ -1,12 +1,15 @@
 ---
-title: SmartVision AI
-emoji: 👁️
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: "1.39.0"
-app_file: src/streamlit_app.py
+title: SmartvisionAI
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
 pinned: false
+short_description: Intelligent Multi-Class Object Recognition System
+license: mit
 ---
 
 ## Features
