@@ -84,6 +84,8 @@ st.sidebar.info(
 if page == "🏠 Home":
     st.markdown('<h1 class="main-header">🔍 SmartVision AI</h1>', unsafe_allow_html=True)
     st.markdown('<p class="sub-header">Intelligent Multi-Class Object Recognition System</p>', unsafe_allow_html=True)
+
+    st.markdown("Link to the app - [smartvisionAI on huggig face spaces] (https://huggingface.co/spaces/poojapb9/smartvisionAI)")
     
     # Hero section
     col1, col2, col3 = st.columns(3)
