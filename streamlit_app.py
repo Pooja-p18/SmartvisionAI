@@ -512,7 +512,7 @@ elif page == "ℹ️ About":
     
     ## 📚 Documentation
     
-    For detailed documentation, visit the [GitHub repository](#).
+    For detailed documentation, visit the [https://github.com/Pooja-p18/SmartvisionAI](#).
     
     ## 👨‍💻 Developer
     
