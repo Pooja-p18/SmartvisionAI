@@ -1,16 +1,14 @@
 ---
-title: SmartvisionAI
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
+title: SmartVisionAI
+emoji: 👁️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.31.0"
+app_file: streamlit_app.py
 pinned: false
-short_description: Intelligent Multi-Class Object Recognition System
-license: mit
 ---
+
 
 ## Features
 - Image classification
